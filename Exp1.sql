@@ -1,4 +1,6 @@
-CREATE TABLE dept (
+CREATE TABLE dept 
+	
+	(
 	deptno int,
 	dname varchar(30),
 	loc varchar(30));
